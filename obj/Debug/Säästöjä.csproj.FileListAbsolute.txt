@@ -1,0 +1,10 @@
+C:\Users\LT_T410\OneDrive - Epedu O365(1)\Käyttöliittymät\Graafisen käyttöliittymän ohjelmointi\Tehtävät\Säästöjä\bin\Debug\Säästöjä.exe.config
+C:\Users\LT_T410\OneDrive - Epedu O365(1)\Käyttöliittymät\Graafisen käyttöliittymän ohjelmointi\Tehtävät\Säästöjä\bin\Debug\Säästöjä.exe
+C:\Users\LT_T410\OneDrive - Epedu O365(1)\Käyttöliittymät\Graafisen käyttöliittymän ohjelmointi\Tehtävät\Säästöjä\bin\Debug\Säästöjä.pdb
+C:\Users\LT_T410\OneDrive - Epedu O365(1)\Käyttöliittymät\Graafisen käyttöliittymän ohjelmointi\Tehtävät\Säästöjä\obj\Debug\Säästöjä.csprojAssemblyReference.cache
+C:\Users\LT_T410\OneDrive - Epedu O365(1)\Käyttöliittymät\Graafisen käyttöliittymän ohjelmointi\Tehtävät\Säästöjä\obj\Debug\Säästöjä.Form1.resources
+C:\Users\LT_T410\OneDrive - Epedu O365(1)\Käyttöliittymät\Graafisen käyttöliittymän ohjelmointi\Tehtävät\Säästöjä\obj\Debug\Säästöjä.Properties.Resources.resources
+C:\Users\LT_T410\OneDrive - Epedu O365(1)\Käyttöliittymät\Graafisen käyttöliittymän ohjelmointi\Tehtävät\Säästöjä\obj\Debug\Säästöjä.csproj.GenerateResource.cache
+C:\Users\LT_T410\OneDrive - Epedu O365(1)\Käyttöliittymät\Graafisen käyttöliittymän ohjelmointi\Tehtävät\Säästöjä\obj\Debug\Säästöjä.csproj.CoreCompileInputs.cache
+C:\Users\LT_T410\OneDrive - Epedu O365(1)\Käyttöliittymät\Graafisen käyttöliittymän ohjelmointi\Tehtävät\Säästöjä\obj\Debug\Säästöjä.exe
+C:\Users\LT_T410\OneDrive - Epedu O365(1)\Käyttöliittymät\Graafisen käyttöliittymän ohjelmointi\Tehtävät\Säästöjä\obj\Debug\Säästöjä.pdb
